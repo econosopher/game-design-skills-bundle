@@ -1,77 +1,23 @@
 ---
 name: game-design-option-generation
-description: Generate multiple game design solution paths before committing to one direction. Use when a feature, live-ops idea, UX problem, economy issue, or design challenge feels too quickly narrowed, when a team is looping around one favorite answer, or when you need several credible options with tradeoffs instead of a single premature recommendation.
+description: "Generate credible alternative solutions and compare tradeoffs when a game-design problem has no selected approach yet."
 ---
 
 # Game Design Option Generation
 
-Generate multiple credible ways forward before choosing one.
+Generate credible alternative solutions and compare tradeoffs when a game-design problem has no selected approach yet.
 
-Use this skill to expand the solution space around a game design problem, feature pitch, or design goal. Keep the work practical. The aim is not random brainstorming. The aim is to produce several plausible options, clarify what makes them different, and expose tradeoffs early.
+## Result
 
-Read `references/family-conventions.md` when you need the shared conventions for this GROW-derived skill family.
+- **Problem framing** - what needs solving
+- **Option set** - at least 3 credible solution paths
+- **Tradeoff summary** - player value, business value, cost, risk, strategic fit
+- **Recommendation** - which path is strongest and why
 
-## What to produce
+## Use the method proportionately
 
-Generate:
-1. **Problem framing** - what needs solving
-2. **Option set** - at least 3 credible solution paths
-3. **Tradeoff summary** - player value, business value, cost, risk, strategic fit
-4. **Recommendation** - which path is strongest and why
+Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
 
-## Process
+Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
 
-### 1. Frame the problem
-Clarify:
-- what outcome is desired
-- what constraint or tension matters most
-- what existing system context cannot be ignored
-
-### 2. Generate multiple options
-Always produce several options before deciding.
-
-Use one or more of these lenses:
-- **Five-options** - compare several existing ideas
-- **Obstacle** - imagine the main blocker removed, then derive paths around it
-- **Ideal outcome** - work backward from the best player-facing result
-- **Transformative reuse** - adapt or extend what already exists
-- **Outside-the-box** - deliberately include non-obvious options
-
-### 3. Compare options
-For each option, describe:
-- summary
-- strengths
-- weaknesses
-- likely player effect
-- implementation burden
-- strategic fit
-
-### 4. Recommend a path
-Choose the strongest option, or recommend a sequence such as test one now, hold one in reserve, discard the rest.
-
-## Response structure
-
-### Problem Framing
-- ...
-
-### Options
-1. ...
-2. ...
-3. ...
-
-### Tradeoffs
-- Option A: ...
-- Option B: ...
-- Option C: ...
-
-### Recommendation
-- ...
-
-## Fast mode
-- What problem are we actually solving?
-- What are 3-5 plausible ways to solve it?
-- Which one is best now, and why?
-
-## Working principle
-
-Do not confuse the first decent answer with the best available direction.
+For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.

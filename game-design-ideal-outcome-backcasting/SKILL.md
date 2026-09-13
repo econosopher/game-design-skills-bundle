@@ -1,73 +1,23 @@
 ---
 name: game-design-ideal-outcome-backcasting
-description: Start from the ideal player-facing result and work backward to the design steps, systems, and decisions required to reach it. Use when a team knows the kind of experience it wants but not how to structure the path there, when redesigning a feature around a stronger destination, or when clarifying what must be true for a concept to feel successful.
+description: "Work backward from a desired player experience to its enabling conditions and near-term design priorities."
 ---
 
 # Game Design Ideal Outcome Backcasting
 
-Start from the ideal future and work backward.
+Work backward from a desired player experience to its enabling conditions and near-term design priorities.
 
-Use this skill when the end-state is easier to imagine than the path to reach it. Treat the ideal outcome as a design tool, not a fantasy wish list. The aim is to define the best believable player-facing result, then retrace the steps needed to make it real.
+## Result
 
-Read `references/family-conventions.md` when you need the shared conventions for this GROW-derived skill family.
+- **Ideal outcome** - the best believable player-facing result
+- **Required conditions** - what must be true for that result to exist
+- **Backward path** - the enabling steps, systems, and decisions
+- **Near-term priorities** - what must happen first
 
-## What to produce
+## Use the method proportionately
 
-Generate:
-1. **Ideal outcome** - the best believable player-facing result
-2. **Required conditions** - what must be true for that result to exist
-3. **Backward path** - the enabling steps, systems, and decisions
-4. **Near-term priorities** - what must happen first
+Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
 
-## Process
+Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
 
-### 1. Describe the ideal future
-Clarify:
-- what the player experience looks and feels like
-- what success looks like in the feature or system
-- what makes this version meaningfully better than the current one
-
-### 2. Identify enabling conditions
-Ask:
-- what must exist for this outcome to work
-- what systems, UX, content, or support layers are required
-- what assumptions must hold true
-
-### 3. Work backward
-Retrace the path from the ideal state to the current state.
-List:
-- key milestones
-- prerequisite systems
-- sequencing dependencies
-- learnings or tests needed before commitment
-
-### 4. Distill immediate priorities
-Separate:
-- what must happen now
-- what can wait
-- what should be prototyped or validated first
-
-## Response structure
-
-### Ideal Outcome
-- ...
-
-### Required Conditions
-- ...
-
-### Backward Path
-1. ...
-2. ...
-3. ...
-
-### Immediate Priorities
-- ...
-
-## Fast mode
-- What does the best believable version look like?
-- What would need to be true for that version to work?
-- What are the first steps backward from that destination?
-
-## Working principle
-
-A clearer destination makes the path easier to design.
+For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.

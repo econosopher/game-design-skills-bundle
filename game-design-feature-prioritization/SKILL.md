@@ -1,73 +1,23 @@
 ---
 name: game-design-feature-prioritization
-description: Prioritize game design feature options by comparing expected impact, implementation cost, strategic fit, and roadmap context. Use when choosing between competing feature ideas, deciding what to do now versus later, ranking solution paths after ideation, or identifying which option is best immediately and which is better long-term.
+description: "Rank existing game-feature options by expected impact, cost, strategic fit and timing when choosing what to build next."
 ---
 
 # Game Design Feature Prioritization
 
-Choose the strongest next move, not just the loudest idea.
+Rank existing game-feature options by expected impact, cost, strategic fit and timing when choosing what to build next.
 
-Use this skill to compare candidate features or solution paths and decide what should happen now, later, or not at all. Keep the process practical. Rough structured judgment is better than fake precision, but explicit comparison is still useful.
+## Result
 
-Read `references/family-conventions.md` when you need the shared conventions for this GROW-derived skill family.
+- **Candidate list** - what is being prioritized
+- **Evaluation matrix** - impact, cost, fit, risk, timing
+- **Priority ranking** - now, later, discard, or monitor
+- **Recommendation** - what should happen next and why
 
-## What to produce
+## Use the method proportionately
 
-Generate:
-1. **Candidate list** - what is being prioritized
-2. **Evaluation matrix** - impact, cost, fit, risk, timing
-3. **Priority ranking** - now, later, discard, or monitor
-4. **Recommendation** - what should happen next and why
+Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
 
-## Process
+Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
 
-### 1. List the candidates
-Make sure the compared items are clear and meaningfully distinct.
-
-### 2. Score the options
-Use rough structured scoring such as 1-5 for:
-- **Impact** - expected player or business value
-- **Implementation cost** - time, resources, complexity
-- **Strategic fit** - alignment with game direction and roadmap
-- **Risk** - uncertainty, dependency burden, fragility
-- **Timing** - whether this is right now or later
-
-### 3. Interpret in context
-Do not choose purely by raw score.
-Also consider:
-- roadmap sequencing
-- enabling value for future features
-- opportunity cost
-- whether a slightly weaker option is smarter in the long run
-
-### 4. Recommend action
-For each option, classify it as:
-- **Do now**
-- **Test first**
-- **Do later**
-- **Discard for now**
-
-## Response structure
-
-### Candidates
-- ...
-
-### Evaluation Matrix
-| Option | Impact | Cost | Strategic Fit | Risk | Timing | Notes |
-|---|---:|---:|---:|---:|---|---|
-
-### Priority Ranking
-- ...
-
-### Recommendation
-- ...
-
-## Fast mode
-- What are we choosing between?
-- Which option has the best impact-to-cost profile?
-- Which option best fits the roadmap right now?
-- What should we do now, later, or not at all?
-
-## Working principle
-
-The locally optimal choice is not always the strategically best one.
+For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.
