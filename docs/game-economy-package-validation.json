@@ -1,0 +1,12 @@
+{
+  "skills": 1,
+  "passed": 1,
+  "results": [
+    {
+      "skill": "game-economy",
+      "files": 7,
+      "errors": [],
+      "archive_sha256": "b197d107e35f2eec63d34de818ddaa7008e5b94251a1785d75b670b4601371b5"
+    }
+  ]
+}

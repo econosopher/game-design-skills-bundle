@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Economy"
+  short_description: "Economic mechanisms, progression and experiment decisions"
+  default_prompt: "Use $game-economy to analyze this game economy and recommend the most useful next decision."

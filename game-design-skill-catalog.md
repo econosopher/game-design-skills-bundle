@@ -2,6 +2,11 @@
 
 A quick index of the game design skills currently available in the workspace.
 
+## Game economy
+
+### game-economy
+Analyze resources, progression, monetization and experiments using economic mechanisms, quantitative tradeoffs and public source evidence.
+
 ## Emotional / thematic direction
 
 ### game-design-emotional-canvas
