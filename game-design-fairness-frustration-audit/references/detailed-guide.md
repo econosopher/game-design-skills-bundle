@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Fairness and Frustration Audit
 
 Audit a design by asking whether it feels fair, understandable, and worth retrying.
@@ -16,13 +21,13 @@ Read `output-patterns.md` when you want the preferred recommendation and minimal
 
 ## Core principle
 
-Players will accept difficulty, failure, and uncertainty when they feel:
+Investigate whether acceptance of difficulty, failure and uncertainty depends on these reported experiences:
 - the cause is understandable
 - they had meaningful influence
 - the challenge matched a learnable demand
 - luck was visible, bounded, or mitigable
 
-Players reject the same systems when outcomes feel:
+Investigate whether rejection is associated with outcomes experienced as:
 - arbitrary
 - hidden
 - uncontrollable
@@ -97,7 +102,7 @@ Pay special attention to combinations like:
 - repeated failure + stable external attribution
 - long retry cycle + low learning value
 
-This is where frustration often shifts from healthy tension into "I am done with this."
+Investigate whether this moment changes continuation decisions, accounting for the rewards, alternatives and failure costs.
 
 ### Grade the fairness experience
 Use a direct classification:
@@ -187,7 +192,7 @@ Common patterns to watch for:
 - a mathematically fair system can still feel unfair if its logic is hidden
 - low-probability disasters feel much worse when the player had no mitigation tools
 - high punishment demands high clarity
-- frustration becomes toxic when players cannot convert failure into learning
+- investigate whether feedback enables learning and whether observed frustration changes future play
 - if players blame luck, the system, and pacing at the same time, fix trust before tuning difficulty
 
 ## Working principle

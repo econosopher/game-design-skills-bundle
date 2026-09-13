@@ -1,31 +1,10 @@
 ---
 name: game-design-player-motivation-audit
-description: "Review the quality and sources of player motivation using the SDT-inspired motivation spectrum when rewards, pressure or intrinsic interest are in question."
+description: "Review stated reasons, incentives and observed participation; use the SDT motivation vocabulary only as hypotheses when it helps a player-motivation question."
 ---
 
-# Game Design Player Motivation Audit
+# Player Motivation Audit
 
-Review the quality and sources of player motivation using the SDT-inspired motivation spectrum when rewards, pressure or intrinsic interest are in question.
+Start with the decision, intended audience, incentives, available choices and constraints. Separate observed behavior, reported experience and causal inference. A named framework supplies questions, not measured segments, diagnoses, effect sizes or proof of retention. State the competing mechanism and the evidence that would distinguish it. Keep welfare criteria explicit and separate from commercial outcomes. Evidence-backed disagreement is allowed; a school of thought does not establish whether a factual claim is true.
 
-## Design lens
-
-Not all motivation is equal.
-
-Two designs may generate similar engagement numbers while creating very different player experiences. One may be driven by genuine enjoyment. Another may be driven by reward compulsion, social pressure, or fear of missing out. This skill helps distinguish those motivational structures.
-
-## Result
-
-- **Target behavior** - what the design is trying to motivate
-- **Motivation breakdown** - which types of motivation are doing the work
-- **Need satisfaction check** - autonomy, competence, relatedness
-- **Motivational profile** - the overall mix and likely player effect
-- **Diagnosis** - how the experience is likely to feel
-- **Recommendations** - what to strengthen, reduce, or rebalance
-
-## Use the method proportionately
-
-Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
-
-Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
-
-For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.
+Read [the detailed guide](references/detailed-guide.md) for the retained definitions, specific checks and limits. Return only the parts needed for the decision.

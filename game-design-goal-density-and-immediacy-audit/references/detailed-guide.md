@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Goal Density and Immediacy Audit
 
 Audit a design by asking whether players can quickly find a meaningful goal, pursue it within the time they have, and leave the session feeling both satisfied and pulled to return.
@@ -62,7 +67,7 @@ Look for:
 - enough choice without drowning the player
 
 ### Break down goals by time horizon
-Evaluate whether the design offers a healthy spread of goals across these horizons:
+Evaluate whether the design offers a purposeful spread of goals across these horizons:
 
 #### Short-term goals
 Goals that can usually be started and often completed in one brief session.

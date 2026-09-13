@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Player Values Mapper
 
 Map observed player behavior to likely underlying value priorities, then use that map to infer what kinds of goals, rewards, content, or framing are most likely to resonate.
@@ -8,9 +13,7 @@ Use this skill when the team needs to understand not just what players do, but w
 
 ## Core principle
 
-Behavior is not random. It is preference made visible.
-
-Players reveal their values through repetition, avoidance, investment, and attention. The goal is not to assign a rigid personality label, but to infer the motivational structure most likely driving current behavior and use that to improve design alignment.
+Choices reveal preferences only relative to available alternatives, information and constraints. Repetition can reflect incentives, habit, required progression or limited options as well as enjoyment. Infer possible values from variation in choices and their costs, not from a single action or absence of action.
 
 ## What to produce
 
@@ -191,5 +194,4 @@ Use this quick pass when speed matters:
 
 ## Working principle
 
-A player rarely says their values directly.
-They leak them constantly through what they pursue, what they skip, and what they are willing to suffer for.
+Use observed choices and player reports together. Infer preferences relative to the available alternatives, information and costs; repetition alone does not identify a stable value or motive.

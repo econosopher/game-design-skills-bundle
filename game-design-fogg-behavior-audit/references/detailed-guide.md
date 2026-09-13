@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Fogg Behavior Audit
 
 Evaluate whether a feature actually produces the behavior it is trying to cause.
@@ -15,7 +20,7 @@ Read `game-examples.md` when you want examples of how Motivation, Ability, and P
 - Always identify the target behavior first.
 - Do not audit a feature in the abstract if the intended player action is unclear.
 - Evaluate Motivation, Ability, and Prompt separately before giving a verdict.
-- Identify which of the three is the main bottleneck.
+- Identify a supported bottleneck when the evidence permits; otherwise state the unresolved alternatives. An effective intervention need not identify a unique bottleneck.
 - Recommend specific fixes, not vague advice.
 - Focus especially on feature design, onboarding, retention loops, event participation, progression actions, social actions, and monetization prompts.
 

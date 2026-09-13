@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Friction Journey Audit
 
 Audit a design by mapping where friction appears across a player journey, what kind of friction it is, how it accumulates, and where useful challenge mutates into harmful drag.
@@ -134,7 +139,7 @@ Identify:
 - where strategy turns into opacity
 - where anticipation turns into dead time
 - where difficulty turns into helplessness
-- where a healthy loop turns into churn risk
+- where an observed continuation pattern changes
 
 These are the key design breakpoints.
 

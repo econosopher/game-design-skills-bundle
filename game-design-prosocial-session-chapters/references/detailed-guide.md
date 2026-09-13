@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Prosocial Session Chapters
 
 Use this skill to structure prosocial multiplayer design across the arc of a session-based experience: before the action, inside the repeating social micro-loops, and after the session ends.
@@ -10,7 +15,7 @@ This skill is specifically for games where social experience happens in repeated
 
 Prosociality should be designed as an arc, not a lucky accident.
 
-A healthy session-based multiplayer game does not rely only on one nice feature or one moderation tool. It prepares players for prosocial behavior before the pressure starts, gives them repeated chances to do small useful social actions during play, and then preserves or extends that social value after the match.
+Examine incentives and opportunities for cooperation before, during and after play. This temporal structure is a design aid; it does not establish a universal requirement or outcome.
 
 ## The chapter model
 
@@ -220,4 +225,4 @@ Use this quick pass when speed matters:
 
 ## Working principle
 
-A session-based multiplayer game becomes more socially healthy when it teaches prosociality before pressure, rehearses it in small repeatable actions during play, and gives it memory after play.
+Evaluate whether before-, during- and after-session interventions improve the specified cooperation or experience outcome; compare their effects and costs.

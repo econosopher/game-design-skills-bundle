@@ -1,5 +1,10 @@
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 # Game Design Thinking Fast and Slow Audit
 
 Audit a design by asking what kind of thinking it demands from the player, when, and whether that demand is appropriate.
@@ -173,7 +178,7 @@ Ask:
 - does it flatten expert depth into autopilot?
 - does the intended audience actually want this blend of cognition?
 
-A system can be good for one audience and terrible for another because of thinking-mode mismatch alone.
+Compare cognitive demands across audiences while considering skill, information, incentives and opportunity cost; the thinking-mode label alone does not identify the cause of an outcome.
 
 ### Convert findings into design changes
 For each major issue, specify:

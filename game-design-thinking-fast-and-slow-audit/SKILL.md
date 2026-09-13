@@ -7,6 +7,11 @@ description: "Review intuitive versus deliberate cognitive demands when pacing, 
 
 Review intuitive versus deliberate cognitive demands when pacing, overload or transitions between thinking modes are in question.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
 Players do not think in one uniform way.

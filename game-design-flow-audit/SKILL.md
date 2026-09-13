@@ -9,14 +9,7 @@ Review challenge and skill over time when diagnosing boredom, anxiety, pacing sp
 
 ## Design lens
 
-Flow emerges when challenge and player skill stay in meaningful tension and grow together over time.
-
-Typical failure shapes:
-- **Challenge above skill** -> anxiety, confusion, frustration
-- **Skill above challenge** -> boredom, autopilot, disengagement
-- **No visible skill growth** -> stagnation, flatness, drop-off
-
-A flow audit is not just about whether the game is hard. It is about whether the game keeps giving the player something they can meaningfully rise to.
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Challenge relative to skill can help organize a pacing review, but low challenge need not imply boredom and high challenge need not imply anxiety. Measure responses in the intended audience.
 
 ## Result
 

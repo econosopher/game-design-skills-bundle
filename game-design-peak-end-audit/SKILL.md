@@ -9,27 +9,12 @@ Review emotional peaks and endings when investigating how a session, feature or 
 
 ## Design lens
 
-Players do not remember an experience as an average of every second they lived through.
-
-They disproportionately remember:
-- the strongest emotional peaks
-- the ending
-- the story those moments imply afterward
-
-That means a design with decent average quality can still be remembered badly if:
-- its emotional peaks are weak
-- its worst spike dominates memory
-- its ending sours the whole experience
-
-And a rougher experience can still land well if:
-- its peak is strong and meaningful
-- its ending resolves cleanly
-- the memory closes with satisfaction, momentum, relief, or anticipation
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examine whether salient moments and endings predict recalled experience in this setting. Do not assume they dominate total duration, average experience or future choices.
 
 ## Result
 
 - **Peak-end profile** - the strongest peaks, the ending shape, and the likely remembered summary
-- **Memory dominance diagnosis** - which moments will overshadow the rest of the experience
+- **Memory dominance diagnosis** - which moments might influence recall and what evidence distinguishes that from other explanations
 - **Ending-quality diagnosis** - whether the closing moments strengthen or poison the memory
 - **Experience-shape risks** - where the design is setting itself up to be remembered for the wrong thing
 - **Design actions** - what to amplify, soften, reorder, frame, or close differently

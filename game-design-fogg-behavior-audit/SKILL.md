@@ -7,6 +7,11 @@ description: "Diagnose feature adoption through Motivation, Ability and Prompt w
 
 Diagnose feature adoption through Motivation, Ability and Prompt when a specific intended player action is not happening.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Result
 
 Quickly identify:
@@ -23,7 +28,7 @@ Quickly identify:
 - Always identify the target behavior first.
 - Do not audit a feature in the abstract if the intended player action is unclear.
 - Evaluate Motivation, Ability, and Prompt separately before giving a verdict.
-- Identify which of the three is the main bottleneck.
+- Identify a supported bottleneck when the evidence permits; otherwise state the unresolved alternatives. An effective intervention need not identify a unique bottleneck.
 - Recommend specific fixes, not vague advice.
 - Focus especially on feature design, onboarding, retention loops, event participation, progression actions, social actions, and monetization prompts.
 

@@ -7,6 +7,11 @@ description: "Reframe how a player reads an existing game state when the obstacl
 
 Reframe how a player reads an existing game state when the obstacle is interpretation rather than an actual progression block.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
 Sometimes the problem is not lack of content, but lack of meaning.

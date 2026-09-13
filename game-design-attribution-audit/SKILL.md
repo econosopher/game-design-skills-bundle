@@ -9,19 +9,7 @@ Diagnose how players explain success or failure, using locus, stability and cont
 
 ## Design lens
 
-Players do not respond only to outcomes. They respond to the story they tell themselves about why the outcome happened.
-
-Healthy failure attribution usually feels:
-- internal enough to preserve responsibility
-- controllable enough to support improvement
-- unstable enough to preserve hope
-
-Toxic failure attribution usually feels:
-- external
-- uncontrollable
-- stable
-
-That combination produces reactions like "the game screwed me" or "this always happens and I can do nothing about it."
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Use locus, stability and controllability to describe explanations, without labeling internal blame healthy or external blame toxic. External causes may be accurate.
 
 ## Result
 

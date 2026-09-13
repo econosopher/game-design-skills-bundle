@@ -7,15 +7,20 @@ description: "Diagnose perceived unfairness by combining attribution, randomness
 
 Diagnose perceived unfairness by combining attribution, randomness and challenge-skill alignment when players feel cheated or resist retrying.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
-Players will accept difficulty, failure, and uncertainty when they feel:
+Investigate whether acceptance of difficulty, failure and uncertainty depends on these reported experiences:
 - the cause is understandable
 - they had meaningful influence
 - the challenge matched a learnable demand
 - luck was visible, bounded, or mitigable
 
-Players reject the same systems when outcomes feel:
+Investigate whether rejection is associated with outcomes experienced as:
 - arbitrary
 - hidden
 - uncontrollable

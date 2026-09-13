@@ -1,36 +1,12 @@
 ---
 name: game-design-premium-pass-audit
-description: "Audit a battle or season pass for value, attainable progression, reward pacing, free-track balance and economy effects."
+description: "Audit a battle or season pass for player value, attainable progression, reward pacing, free-track effects and incremental economy outcomes."
 ---
 
-# Game Design Premium Pass Audit
+# Premium Pass Audit
 
-Audit a battle or season pass for value, attainable progression, reward pacing, free-track balance and economy effects.
+Evaluate the pass against its intended audience, price, time commitment and alternatives. Separate retail accounting from player value and cash receipts from virtual currency flows. Currency-return percentages, retail discount bands and tier locations do not establish value or exploitation.
 
-## Design lens
+Cover the relevant parts of value, progression velocity, free track, pacing, engagement and economy effects. Estimate attainability by segment and entry date. Compare skip prices with marginal time saved; compare exclusivity with early access and later availability. Report incremental receipts and displaced purchases separately.
 
-A premium pass that players feel obligated to complete is not the same as one they want to complete. Obligation drives short-term revenue and long-term churn. The audit's job is to find where the design relies on compulsion instead of desire — and where genuine value is being left on the table.
-
----
-
-## Result
-
-- **Audit target** — what is being reviewed and its context
-- **Value proposition audit** — does the price feel worth it?
-- **Progression velocity audit** — can the right players realistically complete it?
-- **Free track audit** — does the free track earn its place?
-- **Reward pacing audit** — when and how do good rewards land?
-- **Engagement loop audit** — how does the pass create and sustain sessions?
-- **Economy impact audit** — what does the pass inject into and extract from the game economy?
-- **Failure pattern diagnosis** — which named anti-patterns are present?
-- **Recommendations** — prioritised, specific, actionable
-
----
-
-## Use the method proportionately
-
-Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
-
-Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
-
-For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.
+Use [the detailed guide](references/detailed-guide.md) for calculations and checks. Return a specific finding, mechanism, alternative and evidence needed for the decision. Match depth to the task.

@@ -1,30 +1,10 @@
 ---
 name: game-design-player-need-satisfaction-audit
-description: "Review autonomy, competence and relatedness when the user wants a psychological-needs assessment of a game experience."
+description: "Inspect player choice, mastery feedback and relationships when a need-satisfaction lens is requested; distinguish reported experience from inferred outcomes."
 ---
 
-# Game Design Player Need Satisfaction Audit
+# Player Need Satisfaction Audit
 
-Review autonomy, competence and relatedness when the user wants a psychological-needs assessment of a game experience.
+Start with the decision, intended audience, incentives, available choices and constraints. Separate observed behavior, reported experience and causal inference. A named framework supplies questions, not measured segments, diagnoses, effect sizes or proof of retention. State the competing mechanism and the evidence that would distinguish it. Keep welfare criteria explicit and separate from commercial outcomes. Evidence-backed disagreement is allowed; a school of thought does not establish whether a factual claim is true.
 
-## Design lens
-
-People do not play games only because they are interactive or rewarding. They play because games satisfy core psychological needs. A feature can have solid metrics, clean progression, and monetization hooks, yet still feel emotionally weak if it fails to satisfy these needs.
-
-## Result
-
-an audit with these outputs:
-
-- **Need satisfaction profile** - how strongly the design satisfies autonomy, competence, and relatedness
-- **Need denial profile** - where the design frustrates or blocks those needs
-- **Mechanism map** - which systems create or reduce satisfaction
-- **Risk diagnosis** - where the design is emotionally hollow, coercive, or overly one-dimensional
-- **Improvement recommendations** - targeted design changes to improve need satisfaction
-
-## Use the method proportionately
-
-Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
-
-Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
-
-For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.
+Read [the detailed guide](references/detailed-guide.md) for the retained definitions, specific checks and limits. Return only the parts needed for the decision.

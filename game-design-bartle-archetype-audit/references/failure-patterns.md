@@ -1,3 +1,7 @@
+## Evidence boundary
+
+These are historical design hypotheses from [Bartle's MUD taxonomy](https://mud.co.uk/richard/hcds.htm), developed from discussion among experienced players in one commercial MUD. They are not a universal psychometric classifier, population shares or calibrated retention model. Treat the preference descriptions and interaction patterns below as candidate mechanisms to test in the current audience. Intentional unequal coverage can be appropriate. Do not infer a human trait or diagnosis from a play action.
+
 # Bartle Archetype Failure Patterns
 
 Use these when diagnosing imbalance or unintended audience fit.

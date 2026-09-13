@@ -7,13 +7,18 @@ description: "Review perceived randomness, streaks and decision timing when play
 
 Review perceived randomness, streaks and decision timing when players mistrust chance mechanics or feel their choices are undermined.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Result
 
 Quickly identify:
 - whether the player is likely to assume hidden patterns in independent outcomes
 - whether gambler's-fallacy-style expectations will make the system feel unfair after streaks
 - whether players will expect conditional fairness such as "I have not gotten X lately so I should get it soon"
-- whether randomness is input randomness, output randomness, or an unhealthy blur of both
+- whether randomness is input randomness, output randomness, or an combination of both
 - whether the system damages the feeling of competence by making deliberate actions resolve unpredictably
 - whether players can meaningfully react to uncertainty using skill
 - whether the presentation helps players understand the randomness or makes it feel rigged
@@ -26,7 +31,7 @@ Quickly identify:
 - Distinguish actual randomness from perceived randomness.
 - Identify where players will imagine patterns, sabotage, or "the game knows what I need and withholds it" behavior.
 - Check whether randomness happens before the decision or between the decision and the outcome.
-- Treat randomness that interferes directly with player action as more dangerous than randomness that shapes the environment.
+- Compare randomness before and after a choice by the information available, decision value, alternatives and observed response; neither timing is universally more dangerous.
 - Look for streak pain, expectation mismatch, control illusions, and competence damage.
 - Recommend concrete fixes in system design, UX, communication, and presentation.
 

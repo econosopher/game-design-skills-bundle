@@ -7,6 +7,11 @@ description: "Map accumulated friction along a player journey when distinguishin
 
 Map accumulated friction along a player journey when distinguishing useful challenge from obstruction or dependency deadlock.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
 Not all friction is bad.

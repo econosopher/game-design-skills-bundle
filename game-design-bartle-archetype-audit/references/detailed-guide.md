@@ -1,3 +1,7 @@
+## Evidence boundary
+
+These are historical design hypotheses from [Bartle's MUD taxonomy](https://mud.co.uk/richard/hcds.htm), developed from discussion among experienced players in one commercial MUD. They are not a universal psychometric classifier, population shares or calibrated retention model. Treat the preference descriptions and interaction patterns below as candidate mechanisms to test in the current audience. Intentional unequal coverage can be appropriate. Do not infer a human trait or diagnosis from a play action.
+
 <!-- Adapted from the upstream skill body. Commands run from the skill directory; reference filenames in this guide are relative to references/. -->
 
 # Game Design Bartle Archetype Audit
@@ -16,7 +20,7 @@ Treat these as motivational lenses, not rigid personality boxes.
 
 A feature rarely serves all player archetypes equally.
 
-That is not automatically a problem. The real question is whether the imbalance is intentional, healthy, and compatible with the broader game. A design can succeed by strongly serving one archetype, but it can also fail by unintentionally alienating others or by overfeeding one motivational pattern until it distorts the whole experience.
+That is not automatically a problem. The real question is whether the imbalance is intentional and compatible with the broader game. A design can succeed by strongly serving one archetype, but it can also fail by unintentionally alienating others or by overfeeding one motivational pattern until it distorts the whole experience.
 
 ## What to produce
 
@@ -24,7 +28,7 @@ Generate:
 1. **Audit target** - what is being reviewed and what it is supposed to do
 2. **Archetype-by-archetype reading** - how each Bartle lens experiences the design
 3. **Motivational profile** - which archetypes are strongly served, weakly served, or actively harmed
-4. **Imbalance diagnosis** - where the design overcommits, neglects, or creates unhealthy tension
+4. **Imbalance diagnosis** - where the design overcommits, neglects, or creates conflicts with the intended experience
 5. **Recommendations** - what to strengthen, soften, separate, or clarify
 
 ## Process
@@ -87,7 +91,7 @@ Ask:
 - Does this allow players to dominate, disrupt, outplay, pressure, or visibly outperform others?
 - Is there direct or indirect competition?
 - Does the system create status through relative power?
-- Is competitive energy healthy here, or does it poison the experience?
+- How does competition affect the intended audience and other participants?
 - Could killer-facing incentives distort the feature for everyone else?
 
 Look for:

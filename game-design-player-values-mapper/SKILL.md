@@ -7,11 +7,14 @@ description: "Infer possible player values from observed behavior when translati
 
 Infer possible player values from observed behavior when translating motivational priorities into design implications.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
-Behavior is not random. It is preference made visible.
-
-Players reveal their values through repetition, avoidance, investment, and attention. The goal is not to assign a rigid personality label, but to infer the motivational structure most likely driving current behavior and use that to improve design alignment.
+Choices reveal preferences only relative to available alternatives, information and constraints. Repetition can reflect incentives, habit, required progression or limited options as well as enjoyment. Infer possible values from variation in choices and their costs, not from a single action or absence of action.
 
 ## Result
 

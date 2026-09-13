@@ -7,11 +7,16 @@ description: "Design the before, during and after phases of a multiplayer sessio
 
 Design the before, during and after phases of a multiplayer session when improving cooperation, social learning and continuity.
 
+
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
 ## Design lens
 
 Prosociality should be designed as an arc, not a lucky accident.
 
-A healthy session-based multiplayer game does not rely only on one nice feature or one moderation tool. It prepares players for prosocial behavior before the pressure starts, gives them repeated chances to do small useful social actions during play, and then preserves or extends that social value after the match.
+Examine incentives and opportunities for cooperation before, during and after play. This temporal structure is a design aid; it does not establish a universal requirement or outcome.
 
 ## Result
 
