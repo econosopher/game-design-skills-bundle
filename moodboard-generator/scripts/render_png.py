@@ -9,8 +9,8 @@ Tries, in order:
   1. playwright (headless Chromium) — best quality, handles web fonts + lazy images
   2. wkhtmltoimage CLI, if installed on the system
 
-If neither is available (common in network-restricted sandboxes — Playwright needs to
-download a browser binary, which may be blocked), exits with a clear message. In that
+If neither is already available, exit with a clear message. This renderer never
+installs packages or browser binaries. Use it only where host browser policy permits. In that
 case, ship the HTML as the deliverable and tell the user PNG export needs to happen from
 an environment with fuller internet access, or by opening the HTML file in a browser and
 using the browser's own screenshot / "Save as image" capability.
@@ -24,17 +24,12 @@ def try_playwright(html_path: str, png_path: str, width: int) -> bool:
     try:
         from playwright.sync_api import sync_playwright  # noqa
     except ImportError:
-        try:
-            subprocess.run(
-                [sys.executable, "-m", "pip", "install", "--break-system-packages", "-q", "playwright"],
-                check=True, timeout=120,
-            )
-            subprocess.run([sys.executable, "-m", "playwright", "install", "chromium"],
-                            check=True, timeout=300)
-            from playwright.sync_api import sync_playwright  # noqa
-        except Exception as e:
-            print(f"[render_png] playwright unavailable: {e}", file=sys.stderr)
-            return False
+        print(
+            "[render_png] playwright is not installed. Use the host's approved browser "
+            "or install renderer dependencies in a dedicated environment before retrying.",
+            file=sys.stderr,
+        )
+        return False
 
     from playwright.sync_api import sync_playwright
     try:
@@ -83,7 +78,7 @@ if __name__ == "__main__":
 
     print(
         "PNG export not possible in this environment (no headless browser available, "
-        "likely due to network restrictions). Deliver the HTML file instead — it renders "
+        "or rendering failed). Deliver the HTML file instead — it renders "
         "the full moodboard — and note that PNG export needs an environment with fuller "
         "internet access, or the user can open the HTML and export/screenshot it manually.",
         file=sys.stderr,

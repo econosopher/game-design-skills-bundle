@@ -1,76 +1,24 @@
 ---
 name: game-design-goal-framing
-description: Turn a vague feature idea or design direction into a clear game design goal with purpose, scope, fit, success criteria, and constraints. Use when a feature sounds promising but fuzzy, when a team cannot explain why something should exist, when success is unclear, or when a concept needs a stronger goal before ideation, evaluation, or prototyping.
+description: "Turn a vague feature idea into a goal with purpose, game fit, success criteria and constraints before selecting a solution."
 ---
 
 # Game Design Goal Framing
 
-Define what the feature is actually for.
+Turn a vague feature idea into a goal with purpose, game fit, success criteria and constraints before selecting a solution.
 
-Use this skill to sharpen a game design idea into a clear goal statement. The aim is to prevent fuzzy concepts, circular design discussion, and features that exist without a real reason. Keep the framing practical and explicit.
+## Result
 
-Read `references/family-conventions.md` when you need the shared conventions for this GROW-derived skill family.
+- **Goal statement** - what the feature is meant to achieve
+- **Purpose** - why it should exist
+- **Fit** - how it connects to the rest of the game
+- **Success criteria** - player-facing and KPI-facing signals
+- **Constraints** - quality, scope, time, and resource limits
 
-## What to produce
+## Use the method proportionately
 
-Generate:
-1. **Goal statement** - what the feature is meant to achieve
-2. **Purpose** - why it should exist
-3. **Fit** - how it connects to the rest of the game
-4. **Success criteria** - player-facing and KPI-facing signals
-5. **Constraints** - quality, scope, time, and resource limits
+Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
 
-## Process
+Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
 
-### 1. Clarify purpose
-Ask:
-- what problem does this solve
-- what player behavior should change
-- what player need or business need it serves
-
-### 2. Check game fit
-Ask:
-- how it connects to existing loops and systems
-- what player expectations it should meet
-- what it must not break or dilute
-
-### 3. Define success
-Use a SMART-style lens:
-- **Specific** - clear feature vision
-- **Measurable** - success signals or KPIs
-- **Attainable** - feasible with current constraints
-- **Relevant** - connected to strategy and player value
-- **Time-boxed** - aligned to a release or milestone
-
-### 4. Write the framed goal
-Use a compact format such as:
-
-**Goal statement**  
-We want to [player or business outcome] by introducing or changing [feature or system], measured by [signals], within [timeframe].
-
-## Response structure
-
-### Goal Statement
-- ...
-
-### Purpose
-- ...
-
-### Fit with the Game
-- ...
-
-### Success Criteria
-- ...
-
-### Constraints
-- ...
-
-## Fast mode
-- What is this feature for?
-- How should it help the player or the game?
-- What would success look like?
-- What constraints matter most?
-
-## Working principle
-
-A feature without a clear goal is just a vague wish wearing design clothes.
+For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.

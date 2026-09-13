@@ -1,0 +1,372 @@
+{
+  "skills": 61,
+  "passed": 61,
+  "results": [
+    {
+      "skill": "design-red-team-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "af5ab6588b35ecf63ab250c1c36785e92bc5942c4568ede6c6b73bf623b5cec7"
+    },
+    {
+      "skill": "emotional-canvas-moodboard",
+      "files": 6,
+      "errors": [],
+      "archive_sha256": "4e7dbb8a6f407ed173a19f568ef6d370e225e88a0d7c8604438e0308d16e8c9a"
+    },
+    {
+      "skill": "game-design-attribution-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "189f0608d1cdc8e0d2ed502ebf2dab2c3dff29307972f73503e657172f1e1132"
+    },
+    {
+      "skill": "game-design-bartle-archetype-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "b9115d0ed84491bcec6f9ae8fad0de0dd68ddfdf4026ad3dc0e64b79209fc1b2"
+    },
+    {
+      "skill": "game-design-big-five-personality-audit",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "b3f04c3eeb306363fae597372a67229529654a2d5d9d449cc29bb1164d0c8c15"
+    },
+    {
+      "skill": "game-design-brainstorm-methods",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "ac240b1547b4e630e6d11ddaab27c6f149a731b19dfcb6692c7d23f863f21c9e"
+    },
+    {
+      "skill": "game-design-core-loop-extractor",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "cf329a42af5e2a0259acd0d0e0d219351ac64eaf242b1b60b564544fa7394acc"
+    },
+    {
+      "skill": "game-design-craft-critique",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "78b27f218d5b6964d5aa83548d3fc99f02b9a5ec01025d8d0bd0f4a6d28a22e6"
+    },
+    {
+      "skill": "game-design-creative-unblocker",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "b1f2cb260418c67542788bf2149bf9e4b4fcd9302f8e3e02056e144c535d87b2"
+    },
+    {
+      "skill": "game-design-design-pillars-extractor",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "99a316c57417ac69fcb8d4b6faa362f3935797bd668d2623bdb65a9dbdc6e2ae"
+    },
+    {
+      "skill": "game-design-emotional-canvas",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "8a0461bcca58825e3eddd9f8f76eb0f90f9e73432d0aa15ca5f31c65a59793bc"
+    },
+    {
+      "skill": "game-design-failure-loop-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "5abfbd5c81148c39bb89febc67bc7950f9370bf99a67785119670f9bb2c8fabc"
+    },
+    {
+      "skill": "game-design-fairness-frustration-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "79bdbfa4f033607b467ef1c7595e2866441cfa65eee9deea363f2fa0d3e1b97e"
+    },
+    {
+      "skill": "game-design-fantasy-extractor",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "6cdda241093f37e77c03da64855fab464dcba9ca16f06b9b23e9d478cda1da88"
+    },
+    {
+      "skill": "game-design-feature-prioritization",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "dc6a8b4b5af84d6f482133db993c41e59e6c78bf2ca8ff50edf18fae2dc2b0f9"
+    },
+    {
+      "skill": "game-design-five-options",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "8864896b949ee01504d27a6c024f720de1114576559ed01a9e886a8e9955917d"
+    },
+    {
+      "skill": "game-design-flow-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "59a85ea3c070f380b18837b7442e0b0d55c25fdd177aa93cdc340897001be382"
+    },
+    {
+      "skill": "game-design-fogg-behavior-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "20160a21d97c452828fe86c4a63d9eada147316a133fb9a7654b7e52c45006df"
+    },
+    {
+      "skill": "game-design-friction-journey-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "0816fe1b09e9e7a342d02b14c6433c8e1838d04536fabf8a96f7a9c77c631316"
+    },
+    {
+      "skill": "game-design-ftue-hero-journey-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "a8232dfd5b6bd9e389663441d76b02870070ee4fbbdd5b0636f20a32641517d2"
+    },
+    {
+      "skill": "game-design-goal-density-and-immediacy-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "290dcef4204fa484ed14e43bab43a74d2237a9d68874f41f746dcb01bcff0f74"
+    },
+    {
+      "skill": "game-design-goal-framing",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "991259ef798a311d469610d4de912ad53d7945cbd63fb97296ef64c9333761e0"
+    },
+    {
+      "skill": "game-design-granular-player-motivation-audit",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "bf17e8214a6315808a08b8ca1ebc4b3b1ddefbee6845d31f4b040a9dc2331955"
+    },
+    {
+      "skill": "game-design-grow-design",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "46a23d2d257447389887193d8942bb28e49ff3f692cd654399182df8572d4824"
+    },
+    {
+      "skill": "game-design-ideal-outcome-backcasting",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "57b6d98fdaaee55c5aef73110f297a32d1d546fcb18dd0b58424f4c2186c0dd4"
+    },
+    {
+      "skill": "game-design-kpi-coverage-audit",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "8a4ba4fb51aea66092153bf386f269f26d0864eee46baa48b5349e90c49c2563"
+    },
+    {
+      "skill": "game-design-leaderboard-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "b234c56b990142047f107b7db56891627b871c7cc0234699f36a86fb18dce6e4"
+    },
+    {
+      "skill": "game-design-leaderboard-builder",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "14195c0dc62a190396a5068c2dc189714591092f3ddfea7a7ff4ac772635c5e3"
+    },
+    {
+      "skill": "game-design-molyneux-lens",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "bd26c6dcdd973eda97fedbe188bdaa51688a00301b844362d0fcbe0da0789270"
+    },
+    {
+      "skill": "game-design-multiplayer-feature-audit",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "dbf7cc817d164f08ced30fdd615ddedb9189b188ea8554a47654204dc6069f1a"
+    },
+    {
+      "skill": "game-design-novelty-spectrum-audit",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "5cb89f5cb79fdcec2eee7d6e2534a21a8af21286d097cfe85c0d606f528e5e38"
+    },
+    {
+      "skill": "game-design-one-page-design-doc",
+      "files": 6,
+      "errors": [],
+      "archive_sha256": "38e88070ccc3d7fb26a0b6fab9c2a44f66dd48aeb15db2156b898904228ad183"
+    },
+    {
+      "skill": "game-design-one-thing-to-remove",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "408d73815b3f226daba5f6a722d6a7ac4ccc8ef02c3cc9c254fd133737ac7421"
+    },
+    {
+      "skill": "game-design-option-generation",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "405d7e69e717dd146f9a30561d58777b02003d5f3b53c711249917937cbf0635"
+    },
+    {
+      "skill": "game-design-peak-end-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "d68aa1e001b9dcaa0d81501d164320e3c1c25092f954a249c6dc4dd2ad5427b4"
+    },
+    {
+      "skill": "game-design-perceived-randomness-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "25851ce5e5245010f623e73aeed0988119f75461508cea50c35f7c43e74a1d55"
+    },
+    {
+      "skill": "game-design-pitch-deck-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "16aac97d0eafdb65f89404cd416ab3934e19652c953f1b882ae9c8e37e8ac813"
+    },
+    {
+      "skill": "game-design-player-motivation-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "70f0a643e4f01e08ce8afcd5a8e1ddcaa473e1bccdc188674661db04d90138ae"
+    },
+    {
+      "skill": "game-design-player-need-satisfaction-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "8a97c79d4fd5487c0fb6e5f5d32aa461068a990ce800211ab6a3eb11a76ee325"
+    },
+    {
+      "skill": "game-design-player-persona-extractor",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "76bd229b2f9f3adfbf61ea0b35992d768a6dc85d76dd45e451648c7b165e0efc"
+    },
+    {
+      "skill": "game-design-player-perspective-reframe",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "ab447fe6c9602b10439618ef5d7e785e42fb071a7bc6cf064db4897b8b8fa6a4"
+    },
+    {
+      "skill": "game-design-player-segment-perception-audit",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "444068f30701a2d7bcc3a7e2b1f8e6afedf8d4bc91b8c7d03fd962dac720c06a"
+    },
+    {
+      "skill": "game-design-player-values-mapper",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "2c2f65b7bc711dec29640a46d493332b60bc0f32f8b87af1314272eab148c40b"
+    },
+    {
+      "skill": "game-design-premium-pass-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "eaf783b7572bfa3935910cc8a255f20b9906abdba70a1710a93d7833e14693e9"
+    },
+    {
+      "skill": "game-design-prosocial-session-chapters",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "460050fbacee5a5746952fb274e5b75249295e8ec4ffd15374970359aea41551"
+    },
+    {
+      "skill": "game-design-prototype-intent-audit",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "15a948f13e8cb676597fcf4f87073a75b5b1be8921ec9e269219557f29d46652"
+    },
+    {
+      "skill": "game-design-prototyping-companion",
+      "files": 6,
+      "errors": [],
+      "archive_sha256": "dab17260b22ee7c16693ba349ae1aecfbee538c07c4f2cf59ec8ac3fb3f82605"
+    },
+    {
+      "skill": "game-design-roadblock-reframing",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "39435d51d53733dab8586bd7d6bccd8bd34374b2a63518d11f9d2e036c93e58d"
+    },
+    {
+      "skill": "game-design-smart-goal-audit",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "3d7e162a529c0c6457a3b5d6d3c9e583d16611f0562de8d6301a0254c60ad678"
+    },
+    {
+      "skill": "game-design-social-satisfaction-matrix",
+      "files": 2,
+      "errors": [],
+      "archive_sha256": "1703a6dc8597f1e9cf92b29366c8d844b4357fd14bd36491711de26a8b9f7c67"
+    },
+    {
+      "skill": "game-design-systematizing-empathizing-audit",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "203122db5f6a108835248bc27accebeb8a019b804130a0944afdfbed5266e964"
+    },
+    {
+      "skill": "game-design-thinking-fast-and-slow-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "3b82ec97539bcf81317d5df94c8572b749810e8104d9ca98cc74267d88fd726b"
+    },
+    {
+      "skill": "game-design-transformative-reuse",
+      "files": 3,
+      "errors": [],
+      "archive_sha256": "c595dd1a9c2295cf2074e082a0564702df0fd6ffdccfb9f259d1041d9d6cab1a"
+    },
+    {
+      "skill": "game-design-unknown-unknowns-prototyping",
+      "files": 6,
+      "errors": [],
+      "archive_sha256": "2bf6f4fab9aa22a60b5f8b8df43a7ce0efd2af4c4b67f36961c55c6892c114f8"
+    },
+    {
+      "skill": "game-design-zeigarnik-effect-audit",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "f9a3a8d85a6df60e29e5ebba2e219601bb42d31b60559efe1a6fd544b16778f7"
+    },
+    {
+      "skill": "game-dev-budget-estimator",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "317bb43ca02a3365881f18c329aa6a15ab0860710f5ff8f8de2e200ea4f3a6de"
+    },
+    {
+      "skill": "game-dev-first-steps",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "daa7a4506f5fafedffa54be8c21de238cb0d83823a11f436215f834b39b3b816"
+    },
+    {
+      "skill": "game-dev-team-gap",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "fec5c2f083f82cdc058df51ca31b58dd8334b4616d1d91b7cd3fe3f384c90d2d"
+    },
+    {
+      "skill": "game-dev-time-estimator",
+      "files": 4,
+      "errors": [],
+      "archive_sha256": "6e57e647160187a7c75593d3dcd1485a3f9ba29f92271fbe3397438cc09f0131"
+    },
+    {
+      "skill": "moodboard-generator",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "8c299a43c29939cdcebf9a1deb03aba415c7eb073f4d0bf5b1b403cd330d456e"
+    },
+    {
+      "skill": "software-team-conflict-patterns",
+      "files": 5,
+      "errors": [],
+      "archive_sha256": "e51c0323d7aa9404cf98cedd3c9963a750910c83feaa82e9cfef3ab0e6f53d4d"
+    }
+  ]
+}

@@ -1,5 +1,10 @@
 # Perception Patterns
 
+## Evidence and interpretation
+
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Examples below are candidate patterns to investigate, not established diagnoses or effect forecasts.
+
+
 Use this file when you need the core ideas behind how players read randomness.
 
 ## 1. Brains look for patterns even in noise
@@ -45,7 +50,7 @@ Examples:
 - crit chance deciding the value of a committed action
 - random chest result after the player already paid the cost
 
-This is more dangerous because it can sever the link between intention and result.
+This changes the link between intention and result; evaluate that uncertainty against the intended decision and audience.
 It is more likely to damage competence and fairness perception.
 
 ## 4. Competence and action predictability
@@ -60,7 +65,7 @@ Risky pattern:
 - my action itself becomes random or resolves in a way I could not plan around
 
 Audit implication:
-- randomness that creates scenarios can be healthy
+- randomness that creates scenarios can support decision variety
 - randomness that corrupts the resolution of skillful action is more likely to frustrate
 
 ## 5. The system-feels-rigged story

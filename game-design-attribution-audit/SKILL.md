@@ -1,209 +1,28 @@
 ---
 name: game-design-attribution-audit
-description: "Audit a game, feature, combat scenario, progression step, failure state, onboarding beat, or reward outcome through the lens of attribution theory: how players explain success and failure. Use when evaluating whether players will blame themselves, the system, luck, or hidden rules; diagnosing perceived unfairness, learned helplessness, rage, or churn after losses; or identifying where clarity, control, and feedback are too weak for healthy learning."
+description: "Diagnose how players explain success or failure, using locus, stability and controllability when blame or teachability is the question."
 ---
 
 # Game Design Attribution Audit
 
-Audit a design by asking how players will explain what just happened.
+Diagnose how players explain success or failure, using locus, stability and controllability when blame or teachability is the question.
 
-Use this skill to evaluate whether a success or failure is likely to be interpreted as deserved, learnable, and controllable, or as arbitrary, unfair, and outside the player's influence. Focus on player perception of causality, not designer intent or mechanical correctness.
+## Design lens
 
-Read `references/family-conventions.md` when you want the shared style, prioritization, and diagnosis rules for this game-design skill family.
-Read `references/output-patterns.md` when you want the preferred recommendation and minimal-fix structure.
+Treat the framework as a source of testable hypotheses. State the intended audience, available choices, incentives and constraints. Separate observed outcomes, player reports, assumptions and causal claims. A design feature alone does not establish an emotional state, diagnosis or commercial effect. Compare alternatives and look for contradictory evidence. Use locus, stability and controllability to describe explanations, without labeling internal blame healthy or external blame toxic. External causes may be accurate.
 
-## Core principle
+## Result
 
-Players do not respond only to outcomes. They respond to the story they tell themselves about why the outcome happened.
+- **Attribution profile** - likely player interpretation across locus, stability, and controllability
+- **Perception summary** - what the player is likely to think happened
+- **Fairness diagnosis** - whether the outcome feels deserved, understandable, and learnable
+- **Risk assessment** - frustration, learned helplessness, toxicity, or churn risk
+- **Design actions** - specific changes to improve attribution quality
 
-Healthy failure attribution usually feels:
-- internal enough to preserve responsibility
-- controllable enough to support improvement
-- unstable enough to preserve hope
+## Use the method proportionately
 
-Toxic failure attribution usually feels:
-- external
-- uncontrollable
-- stable
+Use the relevant parts of this design lens to answer the actual question. Keep the interpretation and recommendation tied to the supplied design.
 
-That combination produces reactions like "the game screwed me" or "this always happens and I can do nothing about it."
+Match depth and output format to the requested decision. Use known inputs; ask for missing information only when it changes the result. A narrow request does not require a full audit or every output section.
 
-## Attribution lenses
-
-### 1. Locus
-Ask whether the player is likely to locate the cause internally or externally.
-
-- **Internal**: "I made the wrong choice" or "I misplayed"
-- **External**: "the game cheated" or "the system decided against me"
-
-### 2. Stability
-Ask whether the player sees the cause as recurring or one-off.
-
-- **Stable**: "this is just how this game always works"
-- **Unstable**: "that happened this time, but next run could go differently"
-
-### 3. Controllability
-Ask whether the player believes they can influence the outcome in future attempts.
-
-- **Controllable**: "I can improve this"
-- **Uncontrollable**: "nothing I do matters"
-
-## What to produce
-
-Generate:
-1. **Attribution profile** - likely player interpretation across locus, stability, and controllability
-2. **Perception summary** - what the player is likely to think happened
-3. **Fairness diagnosis** - whether the outcome feels deserved, understandable, and learnable
-4. **Risk assessment** - frustration, learned helplessness, toxicity, or churn risk
-5. **Design actions** - specific changes to improve attribution quality
-
-## Process
-
-### 1. Define the audit target
-Clarify:
-- what exact scenario, feature, or failure state is being audited
-- what outcome triggered the audit
-- who the relevant player is
-
-Write:
-- **Audit target**
-- **Outcome type**
-- **Player context**
-
-### 2. Reconstruct the event from the player's point of view
-Map:
-- what the player did
-- what the system did
-- what feedback the player received
-- what information was visible versus hidden
-
-Ask:
-- What action did the player believe they were taking?
-- What result did they expect?
-- What actually happened?
-- What evidence did the game provide about cause and effect?
-
-### 3. Classify the likely attribution profile
-For the observed outcome, judge:
-- **Locus** - internal, mixed, or external
-- **Stability** - stable, mixed, or unstable
-- **Controllability** - high, partial, or low
-
-Use this format:
-
-| Dimension | Likely player reading | Why |
-|---|---|---|
-| Locus | Internal / Mixed / External | ... |
-| Stability | Stable / Mixed / Unstable | ... |
-| Controllability | High / Partial / Low | ... |
-
-### 4. Infer the likely player interpretation
-Translate the attribution profile into player-facing language.
-
-Examples:
-- "I got greedy and deserved that"
-- "That was bad luck, but I could have mitigated it"
-- "The game hid the rule and punished me"
-- "This encounter is just broken"
-
-Prefer the exact sentence a frustrated player might actually say.
-
-### 5. Diagnose why the attribution landed there
-Look for root causes such as:
-- hidden mechanics
-- weak telegraphing
-- delayed or ambiguous feedback
-- inconsistent rules
-- excessive randomness
-- low agency or missing mitigation tools
-- punishment that is too severe for the level of clarity provided
-
-### 6. Check compounding risk patterns
-Pay special attention to combinations like:
-- low clarity + high punishment
-- high randomness + low mitigation
-- repeated failure + stable external attribution
-- weak feedback + complex systems
-- low control + high stakes
-
-These combinations tend to create helplessness, blame, and churn faster than any one issue alone.
-
-### 7. Convert the diagnosis into design changes
-For each issue, specify:
-- **Problem**
-- **Why players read it that way**
-- **Suggested change**
-- **Expected perception shift**
-
-Examples:
-- improve telegraphing -> shifts blame from system to player decision
-- expose hidden rules -> increases controllability
-- add mitigation option -> turns fatalism into recoverable error
-- reduce punishment severity -> lowers hostility during learning
-
-## Response structure
-
-Use this structure unless the user asks for something else:
-
-### Audit Target
-- ...
-
-### Event Reconstruction
-- ...
-
-### Attribution Profile
-- Locus: ...
-- Stability: ...
-- Controllability: ...
-
-### Likely Player Interpretation
-- ...
-
-### Fairness and Learning Diagnosis
-- ...
-
-### Risk Assessment
-- ...
-
-### Recommendations
-1. ...
-2. ...
-3. ...
-
-### Minimal Fix
-- ...
-
-## Fast mode
-
-Use this quick pass when speed matters:
-- What does the player think caused the outcome?
-- Does it feel internal or external?
-- Does it feel controllable next time?
-- Does it feel like a one-off or a permanent rule?
-- What one change would most improve perceived control or clarity?
-
-## Usage notes
-
-This audit is especially useful for:
-- combat deaths
-- boss fights
-- failure loops
-- loot outcomes
-- economy punishments
-- onboarding mistakes
-- puzzle failures
-- competitive losses
-- high-RNG systems that may be misread as rigged
-
-Common patterns to watch for:
-- a system can be mechanically fair and still attract external blame
-- a hard loss can feel acceptable if the cause is clear and avoidable
-- severe punishment raises the attribution bar: clarity and control must rise with it
-- repeated confusion hardens unstable frustration into stable hostility
-
-## Working principle
-
-A good failure says, "you can learn this."
-A bad failure says, "the game just does that."
-
-Use this skill when you need to understand not only what happened, but what players will believe happened.
+For the full method, definitions, detailed checks and examples, consult [the detailed guide](references/detailed-guide.md), reading the sections relevant to the current question. Load its supporting references only when their specific taxonomy, schema or example is needed. Preserve concrete method and file-format requirements; numbered examples are not a required itinerary for every task.
